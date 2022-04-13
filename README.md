@@ -1,8 +1,8 @@
 # Application-de-gestion-des-contacts
   ## Contexte du projet:
->Un site Web où les utilisateurs peuvent créer un compte, puis se connecter pour gérer une liste privée de contacts. Le site Web utilisera des bases >de données pour stocker les données de connexion des utilisateurs, ainsi que pour stocker les contacts de chaque utilisateur.
+>Un site Web où les utilisateurs peuvent créer un compte, puis se connecter pour gérer une liste privée de contacts. Le site Web utilisera des bases de données pour stocker les données de connexion des utilisateurs, ainsi que pour stocker les contacts de chaque utilisateur.
 
-Outre la fonctionnalité de base de données, vous devrez utiliser des fonctionnalités pour construire le site Web telles que:
+Outre la fonctionnalité de base de données, Grace à l'utilisation  des fonctionnalités pour construire le site Web telles que:
 
 les conditionnels
 les fonctions
